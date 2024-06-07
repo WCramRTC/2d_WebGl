@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-2d_Platformer_Test-4.0.2";
 const contentToCache = [
     "Build/2d_WebGl.loader.js",
-    "Build/2d_WebGl.framework.js.br",
-    "Build/2d_WebGl.data.br",
-    "Build/2d_WebGl.wasm.br",
+    "Build/2d_WebGl.framework.js",
+    "Build/2d_WebGl.data",
+    "Build/2d_WebGl.wasm",
     "TemplateData/style.css"
 
 ];
